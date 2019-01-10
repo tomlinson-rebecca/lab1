@@ -36,3 +36,14 @@ body {
 .proj-thumb {
      max-width: 800px;
 }
+
+.main-display {
+     padding-left: 200px;
+     padding-right:200px;
+     margin: auto;
+}
+
+.header-text {
+    padding-left:200px;
+   
+}
